@@ -1,0 +1,53 @@
+-BookTitle         ---- ISBN(LOC)----Genre(F/NF/R)----Author(Last-First)
+1)Arthur's TV Trouble----0590122312----F-Kids-Arthur----Brown-Marc
+2)Billy and Blaze----6214797(LOC)----F-Kids----Anderson-C.W.
+3)The Two of Them----0688073379----F-Kids----Aliki
+4)A Picture Book of Frederick Douglass----0823412059----NF-Kids-Biography----Adler-David A.
+5)Hansel and Gretel----08616300215----F-Classic-Fairy Tale----Brown-Kay
+6)Cattus Petasatus----086516472X----F-Kids-Cat in the Hat in Latin----Dr. Seuss
+7)Just in Time----0717284948----F-Kids-Disney----Ball-Jacqueline A.
+8)The Origin of Life on Earth----0962997854----F-Kids-Myth----Anderson-David A.
+9)Good Night, Sleep Tight, Little Bunnies----0439225256----F-Kids----Apperley-Dawn
+10)Billy and Blaze----002041420X----F-Kids----Anderson-C.W.
+11)Two Hundred Rabbits----6816067(LOC)----F-Kids----Anderson-Lonzo
+12)Salt Hands----0140503218----F-Kids----Aragon-Jane
+13)Up, Down, and Around----9780763640170----F-Kids----Ayres-Katherine
+14)No More Water in the Tub!----059006262X----F-Kids----Arnold-Tedd
+15)Huggly's Thanksgiving Parade----0439324505----F-Kids-The Monster Storybook----Arnold-Tedd
+16)A Cow on the Line----0679819770----F-Kids-Thomas the Tank Engine----Awdry-Rev. W.
+17)Thomas Gets Tricked----0679801006----F-Kids-Thomas the Tank Engine----Awdry-Rev. W.
+18)Lady and the Tramp----NONE----F-Kids-Disney----Walt Disney
+19)Ghosts of the White House----0689848927----F-Kids-Historical----Harness-Cheryl
+20)Albert's Nap----1558582800----F-Kids----Greiniec-Michael
+21)The Pig Who Saw Everything----0816432058----F-Kids----Gackenbach-Dick
+22)Mushroom in the Rain----0689714416----F-Kids----Ginsburg-Mirra
+23)Pokemon, I Choose You!----0439104645----F-Kids-Pokemon----West-Tracey
+24)Clifford's Hiccups----043928337X----F-Kids-Clifford the Big Red Dog----Weyn-Suzanne
+25)Moo!----9780802734099----F-Kids----LaRochelle-David
+26)The Circle of Days----0763603570----F-Kids----Lindbergh-Reeve
+27)Miss Nelson is Missing!----0590118773----F-Kids----Allard-Harry
+28)The Puppy Who Wanted a Boy----0688059449----F-Kids----Thayer-Jane
+29)Ord and the Shining Star----037580546X----F-Kids----Snyder-Margaret
+30)Bats at the Library----9780618999231----F-Kids----Lies-Brian
+31)Dolphin Treasure(3)----0153143843----F-Kids----Grover-Wayne
+32)A Treasury of Princesses----0060245328----F-Kids-Myth----Climo-Shirley
+33)A Circle of Friends----1932065008----F-Kids-Pictures----Carmi-Giora
+34)The Fox and the Hound-Hide and Seek----0307010562----F-Kids-Disney----Little Golden Books
+35)Freight Train----0688149006----R-Kids-Trains----Crews-Donald
+36)Scooby-Doo! and You: the Case of the Wandering Witch----0439231515----F-Kids-Scooby Doo----Gelsey-James
+37)SpongeBob: The Great Snail Race----0689873131----F-Kids-SpongeBob Squarepants----Ostrow-Kim
+38)Encore, Grace!----0803729510----F-Teens----Hoffman-Mary
+39)The Strongest One of All----0688800815----F-Kids----Ginsburg-Mirra
+40)RadioMan-A Story in English and Spanish----0395732441----F-Kids-Bilingual ----Dorros-Arthur
+41)Dora's Backpack----0689847203----F-Kids-Dora the Explorer----Willson-Sarah
+42)It Takes A Village----0590465988----F-Kids----Cowen Fletcher-Jane
+43)Guji Guji----9781929132676----F-Kids----Chen - Chih-Yuan
+44)Rosita's New Friends----0307131289----F-Kids-Sesame Street----Davis-Allison
+45)Curious George at the Fire Station----0395390311----F-Kids-Curious George----Rey-Margret
+46)Sunday Morning----068970447X----F-Kids----Viorst-Judith
+47)The Story of Babar, the Little Elephant----0394805755----F-Kids----De Brunhoff-Jean
+48)Pancakes for Breakfast----0156707683----F-Kids----De Paola-Tomie
+49)Picky Nicky----0439046777----F-Kids-A Picture Reader----Dubowski-Cathy
+50)What a Trip, Amber Brown----0439144906----F-Kids-A is for Amber----Danziger-Paula
+51)The Bear that Heard Crying----0590024205----F-Kids-Historical----Kinsey-Warnock--Natalie
+52)Palmiero and the Ogre----6710028(LOC)----F-Kids-Fantasy----Domanska-Janina
